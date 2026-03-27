@@ -1,7 +1,7 @@
-# Mentoria IA First - Kensai Cybersecurity Academy
+# Mentoria IA First - Kensei Cybersecurity Academy
 
    Bem-vindo! 👋 Este repositório é o espaço dedicado para armazenar todos os códigos e projetos desenvolvidos durante a       
-  **mentoria de IA e Programação da Kensai Cybersecurity Academy**.
+  **mentoria de IA e Programação da Kensei Cybersecurity Academy**.
 
   ## 📚 Sobre Esta Mentoria
 
